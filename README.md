@@ -9,3 +9,4 @@
 
 ### Code by : NotGery
 ![preview img](/preview1.png)
+![preview img](/preview2.png)
